@@ -8,7 +8,7 @@ order: 4
 中文简介请见下方。一本书：<a href="https://zhang-ming-rui.gitbook.io/when-rocket-goes-up/" target="_blank">《火箭升空之时》</a> 微信公众号：thisisdrustz
 
 <h3>About me</h3>
-<p>My name is Mingrui (Ray) Zhang. I was born in Kaifeng, Henan in 1995. Currently I'm doing research on augmented reality (AR) interactions at Meta Reality Labs, New York.</p>
+<p>My name is Mingrui (Ray) Zhang. I was born in Kaifeng, Henan in 1995. Currently I'm working at Meta NYC on recommendation systems.</p>
 <p>I received my Ph.D. degree in Information Science from the University of Washington, Seattle. Before that, I graduated from the Computer Science and Engineering department in Tsinghua University 2017. I was an exchange student in the Chinese University of Hong Kong, and was in Fluid Interface at MIT Media Lab as a visiting student.</p>
 
 <h5>Research</h5>
@@ -22,8 +22,9 @@ order: 4
 
 <h5>Industry</h5>
 <ul>
-<p>Currently I'm working at Meta Reality Labs. </p>
-<p>I worked at <a href="https://www.apple.com/" target="_blank">Apple</a> to prototype novel input interactions on xxxx. </p>
+<p>I conducted research on augmented reality (AR) interactions at Meta Reality Labs, New York. </p>
+<p>I conducted research on augmented reality (AR) interactions at Meta Reality Labs, New York. </p>
+<p>I worked at <a href="https://www.apple.com/" target="_blank">Apple</a> to prototype gaze input interactions on Apple Vision Pro. </p>
 <p>I worked at <a href="https://tech.fb.com/ar-vr/" target="_blank">Meta Reality Lab</a> to design and implement text entry interactions with EMG signals on wearable devices.</p>
 <p>I worked at Google in <a href="https://www.android.com/" target="_blank">the Android team</a> on improving the keyboard correction experience.</p>
 <p>I worked in <a href="https://momenta.ai" target="_blank">Momenta.ai</a> as a research intern on Freespace Detection</p>
@@ -52,7 +53,7 @@ My mom is a nurse, and my dad, a government staff. My sister works with my dad. 
 <br/>
 
 <p>张明瑞，中原古城开封人，生年1995，卒年未知。</p>
-<p>目前在Meta纽约研究所工作，博士毕业于华盛顿大学西雅图分校信息学院。清华大学计算机系三字班，17年毕业，辅修新闻专业。</p>
+<p>目前在Meta纽约工作，博士毕业于华盛顿大学西雅图分校信息学院。清华大学计算机系三字班，17年毕业，辅修新闻专业。</p>
 <p>不愿做沉默的大多数。</p>
 
 <h5>科研</h5>
@@ -75,7 +76,8 @@ My mom is a nurse, and my dad, a government staff. My sister works with my dad. 
 <p>19年夏在Google Research, 探索手机键盘智能输入的更多可能。</p>
 <p>20年夏在Meta Reality Lab，由于COVID在家远程设计如何将肌电信号(EMG)转化为文字输入的交互。</p>
 <p>21年夏在Apple，为xxxx开发输入交互。</p>
-<p>从22年至今在Meta Reality Labs。</p>
+<p>从22年24在Meta Reality Labs。</p>
+<p>从24年至今在Meta Modern Recommendation Systems，做推荐算法。</p>
 <p>未来会考虑成立公司（吗）。</p>
 </ul>
 
