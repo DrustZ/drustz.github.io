@@ -3,7 +3,7 @@ layout: about
 title: Home
 ---
 
-Greetings! I'm Mingrui Zhang (张明瑞). I am a Machine Learning Engineer ~~ Research Scientist at [Meta Reality Labs] ~~ on Recommendation Systems at Meta New York. I  graduated from the University of Washington [Information School] as a Ph.D. My advisor is Prof. [Jacob O. Wobbrock], who directs the [ACE Lab]. Before that, I gained my BEng of Computer Science & Technology from [Tsinghua University], China. 
+Greetings! I'm Mingrui Zhang (张明瑞). I am a Machine Learning Engineer on Recommendation Systems at Meta New York. I  graduated from the University of Washington [Information School] as a Ph.D. My advisor is Prof. [Jacob O. Wobbrock], who directs the [ACE Lab]. Before that, I gained my BEng of Computer Science & Technology from [Tsinghua University], China. 
 
 My research interests are in Human-Computer Interaction, specifically in input interactions for Augmented Reality (AR) device. In the past, I've done research for intelligent text entry methods, including improving and evaluating the technology that facilitates human communication process (e.g. smart speaker, auto correction/prediction), and making them accessible for people with different abilities.
 
