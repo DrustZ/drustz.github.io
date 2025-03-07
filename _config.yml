@@ -18,15 +18,15 @@ tagline:             DrustZ
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description: 
-  PhD @ACE Lab, UW Seattle
+  Researcher, Boyfriend, Friend, Human 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Mingrui (Ray) Zhang
-  email:             mingrui@uw.edu
+  email:             drustray@gmail.com
 
 # Fallback image and color
-image:               http://theiphonewalls.com/wp-content/uploads/2013/12/New-York-City-Manhattan-Bridge-Night-Light-Bokeh.jpg
+image:               https://github.com/DrustZ/drustz.github.io/blob/4ba7e831d83bc84d3e46c70b2c2616d816484369/assets/img/New-York-City-Manhattan-Bridge-Night-Light-Bokeh.jpg?raw=true
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
