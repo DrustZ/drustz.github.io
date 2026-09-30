@@ -3,7 +3,7 @@ layout: about
 title: Home
 ---
 
-Greetings! I'm Mingrui Zhang (张明瑞). I am a Member of Technical Staff at [Reflection.ai] in New York City. I graduated from the University of Washington [Information School] as a Ph.D. My advisor is Prof. [Jacob O. Wobbrock], who directs the [ACE Lab]. Before that, I gained my BEng of Computer Science & Technology from [Tsinghua University], China. 
+Greetings! I'm Mingrui Zhang (张明瑞). I am a Member of Technical Staff at [Exa] in San Francisco. I graduated from the University of Washington [Information School] as a Ph.D. My advisor is Prof. [Jacob O. Wobbrock], who directs the [ACE Lab]. Before that, I gained my BEng of Computer Science & Technology from [Tsinghua University], China. 
 
 My research interests are in Human-Computer Interaction and AI agents. Recent years I moved to developing Large-langugage Models (LLM), especially on their agentic capabilities which resembles a lot of how humans interact with the environment. In the past, I've done research for input interactions (e.g. gesture/text input, targeting) for Meta's [Rayban Display] and [Oculus] devices. My PhD work focused on intelligent text entry methods, including improving and evaluating the technology that facilitates human communication process (e.g. smart speaker, auto correction/prediction), and making them accessible for people with different abilities.
 
@@ -34,7 +34,7 @@ I enjoy playing computer games in my spare time, but you know, I rarely have spa
 </pre>
 </div>
 
-[Reflection.ai]: https://reflection.ai/
+[Exa]: https://exa.ai/
 [Information School]: https://ischool.uw.edu/
 [Jacob O. Wobbrock]: http://faculty.washington.edu/wobbrock/
 [ACE Lab]: http://depts.washington.edu/acelab/

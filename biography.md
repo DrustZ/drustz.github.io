@@ -22,7 +22,8 @@ order: 4
 
 <h5>Industry</h5>
 <ul>
-<p>I conducted research on augmented reality (AR) interactions at Meta Reality Labs, New York. </p>
+<p>I'm currently working at Exa.ai for search agents.</p>
+<p>I worked at Reflection.ai on post-training to teach model reasoning capabilities on math/STEM. </p>
 <p>I conducted research on augmented reality (AR) interactions at Meta Reality Labs, New York. </p>
 <p>I worked at <a href="https://www.apple.com/" target="_blank">Apple</a> to prototype gaze input interactions on Apple Vision Pro. </p>
 <p>I worked at <a href="https://tech.fb.com/ar-vr/" target="_blank">Meta Reality Lab</a> to design and implement text entry interactions with EMG signals on wearable devices.</p>
@@ -34,7 +35,7 @@ order: 4
 
 <h5>Life</h5>
 <ul>
-<p>I love biking. I cycled from Chengdu, Sichuan to Tibet in the summer of 2013.</p>
+<p>I love motorcycling and biking. I rode motorcycle across the U.S. from NYC to SF in the fall of 2026. I cycled from Chengdu, Sichuan to Tibet in the summer of 2013.</p>
 <p>Sing songs, and play guitar (almost forget!).</p>
 </ul>
 
@@ -58,8 +59,9 @@ My mom is a nurse, and my dad, a government staff. My sister works with my dad. 
 
 <h5>科研</h5>
 <ul>
+<p>目前在Exa做搜索相关的agentic research。</p>
 <p>对人机交互十分热爱,尤其是输入方式（触屏输入）以及如何更加自然地与设备交互。</p>
-<p>目前在Meta研究增强现实（AR）平台的交互技术，尤其是文字交互。</p>
+<p>毕业前两年在Meta研究增强现实（AR）平台的交互技术，尤其是文字交互。</p>
 <p>博士在ACE Lab实验室，与Jacob O. Wobbrock教授一同研究输入评估模型以及智能文字输入技术的研究。</p>
 <p>我从大二开始在清华大学人机交互实验室，参与空中打字项目研究。</p>
 <p>大二暑期在香港中文大学多媒体实验室，接触图像识别与深度学习。</p>
@@ -76,13 +78,16 @@ My mom is a nurse, and my dad, a government staff. My sister works with my dad. 
 <p>19年夏在Google Research, 探索手机键盘智能输入的更多可能。</p>
 <p>20年夏在Meta Reality Lab，由于COVID在家远程设计如何将肌电信号(EMG)转化为文字输入的交互。</p>
 <p>21年夏在Apple，为xxxx开发输入交互。</p>
-<p>从22年24在Meta Reality Labs。</p>
-<p>从24年至今在Meta Modern Recommendation Systems，做推荐算法。</p>
+<p>从22年到24在Meta Reality Labs。</p>
+<p>从24年到25年在Meta Modern Recommendation Systems，做推荐算法。</p>
+<p>从25年到26年在Reflection.ai，做model post training。</p>
+<p>目前在Exa.ai做搜索模型的post training。</p>
 <p>未来会考虑成立公司（吗）。</p>
 </ul>
 
 <h5>兴趣</h5>
 <ul>
+<p>喜欢旅游，到了南北两极，喜欢摩托车。</p>
 <p>对音乐感兴趣，然而小提琴与吉他的弦早就生锈了，在尝试学钢琴。</p>
 <p>喜欢骑自行车，曾于2014夏骑行川藏线，后摔车骨折，改徒搭到达。</p>
 </ul>
