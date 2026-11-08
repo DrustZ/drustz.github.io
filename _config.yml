@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title:               Mingrui (Ray) Zhang
+lang:                en
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -115,6 +116,8 @@ exclude:
   - package-lock.json
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - .bundle-docker
 
 kramdown:
   footnote_backlink: '&#x21a9;&#xfe0e;'

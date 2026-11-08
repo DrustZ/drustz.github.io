@@ -13,6 +13,8 @@
   <script>loadJSDeferred('{{ js_url | relative_url }}');</script>
   {% capture dr_js_url %}{% link assets/js/drcustom.js %}{% endcapture %}
   <script>loadJSDeferred('{{ dr_js_url | relative_url }}');</script>
+  {% capture i18n_js_url %}{% link assets/js/i18n.js %}{% endcapture %}
+  <script>loadJSDeferred('{{ i18n_js_url | relative_url }}');</script>
 
   {% include my-scripts.html %}
   <!--<![endif]-->

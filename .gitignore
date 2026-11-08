@@ -2,10 +2,10 @@ _site
 swag
 public
 google*.html
-robots.txt
 .DS_Store
 .rbenv-*
 .bundle
+.bundle-docker
 bin
 .vagrant
 vendor

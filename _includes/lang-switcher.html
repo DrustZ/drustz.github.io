@@ -1,0 +1,12 @@
+<button
+  id="langSwitcher"
+  class="lang-switcher"
+  type="button"
+  aria-label="Switch language"
+  title="中文 / English"
+  data-translation-url="{{ page.translation | default:'' | relative_url }}"
+  data-page-lang="{{ page.lang | default: site.lang | default: 'en' }}"
+>
+  <span class="lang-switcher__label" data-show-when="en">中文</span>
+  <span class="lang-switcher__label" data-show-when="zh">EN</span>
+</button>

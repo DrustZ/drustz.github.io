@@ -75,6 +75,8 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  aarch64-linux
+  arm64-darwin-26
   universal-darwin-20
   universal-darwin-21
   x64-mingw32
@@ -93,4 +95,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.28
+   2.4.22

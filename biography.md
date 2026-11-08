@@ -4,11 +4,18 @@ layout: page
 permalink: bio.html
 menu: true
 order: 4
+lang: en
 ---
+
+<div data-lang="zh" hidden>
 中文简介请见下方。一本书：<a href="https://zhang-ming-rui.gitbook.io/when-rocket-goes-up/" target="_blank">《火箭升空之时》</a> 微信公众号：thisisdrustz
+</div>
+
+<div data-lang="en">
+<p>Chinese version available via the language button. One book: <a href="https://zhang-ming-rui.gitbook.io/when-rocket-goes-up/" target="_blank">When the Rocket Goes Up</a>. WeChat official account: thisisdrustz</p>
 
 <h3>About me</h3>
-<p>My name is Mingrui (Ray) Zhang. I was born in Kaifeng, Henan in 1995. Currently I'm working at Meta NYC on recommendation systems.</p>
+<p>My name is Mingrui (Ray) Zhang. I was born in Kaifeng, Henan in 1995. I'm currently working at Exa in San Francisco on search agents.</p>
 <p>I received my Ph.D. degree in Information Science from the University of Washington, Seattle. Before that, I graduated from the Computer Science and Engineering department in Tsinghua University 2017. I was an exchange student in the Chinese University of Hong Kong, and was in Fluid Interface at MIT Media Lab as a visiting student.</p>
 
 <h5>Research</h5>
@@ -48,13 +55,13 @@ order: 4
 <ul>
 My mom is a nurse, and my dad, a government staff. My sister works with my dad. Belle is my cat's name.
 </ul>
+</div>
 
-<br/>
-<hr>
-<br/>
+<div data-lang="zh" hidden>
+<p>一本书：<a href="https://zhang-ming-rui.gitbook.io/when-rocket-goes-up/" target="_blank">《火箭升空之时》</a>。微信公众号：thisisdrustz</p>
 
 <p>张明瑞，中原古城开封人，生年1995，卒年未知。</p>
-<p>目前在Meta纽约工作，博士毕业于华盛顿大学西雅图分校信息学院。清华大学计算机系三字班，17年毕业，辅修新闻专业。</p>
+<p>目前在旧金山 Exa 工作，博士毕业于华盛顿大学西雅图分校信息学院。清华大学计算机系三字班，17年毕业，辅修新闻专业。</p>
 <p>不愿做沉默的大多数。</p>
 
 <h5>科研</h5>
@@ -104,3 +111,4 @@ My mom is a nurse, and my dad, a government staff. My sister works with my dad. 
 <ul>
 我的母亲是一位护士，父亲是政府机构人员，姐姐和父亲一起工作。我的猫叫做蓓尔。
 </ul>
+</div>

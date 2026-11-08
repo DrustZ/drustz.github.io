@@ -51,6 +51,21 @@
 ------------------------{% endcomment %}
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 
+{% assign page_lang = page.lang | default: site.lang | default: 'en' %}
+{% if page.translation %}
+  {% assign alt_lang = page.translation_lang %}
+  {% if alt_lang == nil or alt_lang == '' %}
+    {% if page_lang == 'zh' %}{% assign alt_lang = 'en' %}{% else %}{% assign alt_lang = 'zh' %}{% endif %}
+  {% endif %}
+  <link rel="alternate" hreflang="{{ page_lang }}" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" hreflang="{{ alt_lang }}" href="{{ page.translation | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
+{% elsif page.url == '/' or page.url == '/zh/' %}
+  <link rel="alternate" hreflang="en" href="{{ '/' | absolute_url }}">
+  <link rel="alternate" hreflang="zh" href="{{ '/zh/' | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+{% endif %}
+
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }} Feed" href="{{ site.feed.path | default:'feed.xml' | absolute_url }}">
 
 {% if page.previous %}
