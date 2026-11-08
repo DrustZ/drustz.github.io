@@ -1,4 +1,4 @@
-<span class="sr-only" data-i18n="Navigation:">Navigation:</span>
+<span class="sr-only">Navigation:</span>
 <ul>
   {% assign pages = site.pages %}
 
@@ -10,11 +10,11 @@
 
   {% for node in pages %}
     <li>
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}" data-i18n="{{ node.title }}">{{ node.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
     </li>
   {% endfor %}
   <!-- link -->
   <li>
-    <a class="sidebar-nav-item" href="http://drustz.com/assets/pdfs/CV-research.pdf" data-i18n="CV">CV</a>
+    <a class="sidebar-nav-item" href="http://drustz.com/assets/pdfs/CV-research.pdf">CV</a>
   </li>
 </ul>

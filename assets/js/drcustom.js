@@ -88,3 +88,27 @@ document.addEventListener("scroll", () => {
     pageProgressBar.style.opacity = '0%';
   }
 });
+
+
+// For translate button
+const translateButton = document.querySelector(".translate-button")
+
+const translatePage = () => {
+  const text = document.getElementById("_main").innerText
+  const cjkChars = (text.match(/[\u3400-\u9fff]/g) || []).length
+  const latinWords = (text.match(/[A-Za-z]+/g) || []).length
+  const targetLang = cjkChars > latinWords ? "en" : "zh-CN"
+  const pageUrl = location.href.split("#")[0]
+  window.open(
+    `https://translate.google.com/translate?sl=auto&tl=${targetLang}&u=${encodeURIComponent(pageUrl)}`,
+    "_blank",
+    "noopener"
+  )
+}
+
+// Google's translated view (*.translate.goog) has its own language toolbar
+if (location.hostname.endsWith(".translate.goog")) {
+  translateButton.remove()
+} else {
+  translateButton.addEventListener("click", translatePage)
+}

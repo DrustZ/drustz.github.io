@@ -1,9 +1,6 @@
 ---
 layout: about
 title: Home
-lang: en
-translation: /zh/
-translation_lang: zh
 ---
 
 Greetings! I'm Mingrui Zhang (张明瑞). I am a Researcher at [Exa] in San Francisco. I graduated from the University of Washington [Information School] as a Ph.D. My advisor is Prof. [Jacob O. Wobbrock], who directs the [ACE Lab]. Before that, I gained my BEng of Computer Science & Technology from [Tsinghua University], China. 

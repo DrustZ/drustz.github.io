@@ -168,50 +168,51 @@ img.dark {
   background-color: transparent !important;
 }
 
-/* Language switcher */
-.lang-switcher {
+/* Translate button */
+.translate-button {
   position: fixed;
   top: 1rem;
   right: 1rem;
   z-index: 40;
-  min-width: 3.25rem;
-  height: 2.25rem;
-  padding: 0 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0;
   border: 1px solid rgba(27, 69, 95, 0.25);
-  border-radius: 999px;
+  border-radius: 50%;
   background: rgba(255, 255, 255, 0.92);
   color: #1b455f;
-  font-size: 0.85rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
   cursor: pointer;
   box-shadow: 0 4px 16px rgba(27, 69, 95, 0.12);
   backdrop-filter: blur(8px);
   transition: transform 0.15s ease, background 0.15s ease, color 0.15s ease;
 }
 
-.lang-switcher:hover {
+.translate-icon {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
+.translate-button:hover {
   transform: translateY(-1px);
   background: #1b455f;
   color: #fff;
 }
 
-.lang-switcher:focus-visible {
+.translate-button:focus-visible {
   outline: 2px solid #1b455f;
   outline-offset: 2px;
 }
 
-body.dark .lang-switcher {
+body.dark .translate-button {
   background: rgba(39, 37, 61, 0.92);
   color: #c9d1d9;
   border-color: rgba(201, 209, 217, 0.25);
 }
 
-body.dark .lang-switcher:hover {
+body.dark .translate-button:hover {
   background: #4f86aa;
   color: #fff;
-}
-
-[data-lang][hidden] {
-  display: none !important;
 }
